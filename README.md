@@ -1,7 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B+I+am+Viral+Rupani)](https://viralrupani.github.io/portfolio-2.0/)
 
 # Hey! I am Viral Rupani
-
 
 ### Goot at 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -14,4 +12,4 @@
 
 ### What I use to Code
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![Pycharm](https://img.shields.io/badge/Pycharm-000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
